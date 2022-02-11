@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "nodejs",
+      "author": "shashi",
+      "id": 4
+    },
+    {
+      "title": "mongodb",
+      "author": "shashi",
+      "id": 5
+    },
+    {
+      "title": "expressjs",
+      "author": "mani",
+      "id": 6
+    },
+    {
+      "title": "reactjs",
+      "author": "bibin",
+      "id": 7
+    }
+  ]
+}
